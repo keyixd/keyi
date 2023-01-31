@@ -7,8 +7,6 @@ Tıklanma Sayısı<br>
  <img src="https://profile-counter.glitch.me/keyi/count.svg" />
 </p>
 
-
-
 ```js
 class keyi {
     constructor(options) {
@@ -24,4 +22,3 @@ class keyi {
 }
 module.exports = keyi
 ```
-
